@@ -16,12 +16,6 @@ indicator light visible in the camera frame provides a frame-accurate signal
 of loom onset. This allows each loom event to be automatically detected and
 clipped from the raw video without manual timestamp entry.
 
-### Design
-<img width="550" height="450" alt="new_cage_design" src="https://github.com/user-attachments/assets/3aa1856b-e0ea-4531-b1c6-9a95da4378a6" />
-![Design of looming assay arena](path_to_image/design.png)
-
-**Figure 1A. Arena design.** Behavioural experiments were conducted in a rectangular Plexiglas arena with three walls rendered opaque using matte white paint and one partially transparent wall for identification and infrared illumination. Visual stimuli were presented from a monitor mounted above the arena. The transparent Plexiglas floor enabled recording from a camera positioned below the arena, while an external red Plexiglas sheet prevented the floor from appearing transparent to the animal. The red shaded region indicates the area in which loom onset was triggered.
-
 <img src="https://github.com/user-attachments/assets/4b15870c-ff73-4049-b4f2-8b821ac900cb" width="450" alt="Camera view from below showing animal tracking overlay and stimulus onset indicators"/>
 
 The pipeline does two things:
