@@ -176,9 +176,9 @@ Reaction_time_and_speed_scoring(searchFolders, outputDir);
 
 ## Example Data
 
-Example clips, tracking files, and expected Excel outputs are provided in
-the `example_data/` folder to allow the pipeline to be tested end-to-end
-before applying it to new data.
+Example clips for each behavioural response category (escape, freezing,
+rearing, no response) are available here:
+[Example Data (Google Drive)](paste-your-link-here)
 
 ---
 
