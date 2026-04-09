@@ -178,7 +178,7 @@ Reaction_time_and_speed_scoring(searchFolders, outputDir);
 
 Example clips of each behavioural response category (escape, freezing,
 rearing, no response) and general exploration are available here:
-[Example Data (Google Drive)](paste-your-link-here)
+[Example Data (Google Drive)](https://drive.google.com/drive/folders/1-eDAcUuFldqSmIJQdIcOjjmpr3t4m-7i?usp=drive_link)
 
 ---
 
