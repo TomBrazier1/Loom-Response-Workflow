@@ -40,9 +40,8 @@ The pipeline does two things:
 - Tracking .mat files (idx, idy coordinates) generated via Storchi et al. (2020)
 
 ### Camera and Arena Setup Note
-This pipeline was developed for a specific hardware configuration in which 
-behavioural recordings were acquired using an infrared camera positioned below 
-the arena. Because the infrared camera cannot detect the dark expanding disc 
+This pipeline was developed for behavioural recordings acquired using an 
+infrared camera positioned below the arena. Because the infrared camera cannot detect the dark expanding disc 
 presented on the ceiling monitor, loom onset is instead identified from two 
 small white indicator boxes displayed simultaneously on the monitor at stimulus 
 onset, which appear as bright flashes in the camera frame. The ROI in 
