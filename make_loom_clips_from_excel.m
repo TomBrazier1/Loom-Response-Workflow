@@ -30,11 +30,6 @@ function make_loom_clips_from_excel(excelFile, videoRoot, outDir)
 %   MATLAB Image Processing Toolbox (for im2uint8)
 %
 % -------------------------------------------------------------------------
-% CITATION:
-%   If you use this script please cite:
-%   Brazier, T. (2026). Time-of-day differences in visually evoked defensive
-%   responses in mice. MSci Thesis, University of Manchester.
-% -------------------------------------------------------------------------
 
 %% ---- Validate inputs ----
 excelFile = char(excelFile);
