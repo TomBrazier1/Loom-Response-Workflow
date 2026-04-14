@@ -34,12 +34,7 @@ function outXlsx = detect_loom_onsets_to_excel(aviFiles, outDir, outName)
 % DEPENDENCIES:
 %   MATLAB Image Processing Toolbox (for rgb2gray)
 %
-% -------------------------------------------------------------------------
-% CITATION:
-%   If you use this script please cite:
-%   Brazier, T. (2026). Time-of-day differences in visually evoked defensive
-%   responses in mice. MSci Thesis, University of Manchester.
-% -------------------------------------------------------------------------
+% ------------------------------------------------------------------------
 
 %% ================== USER-EDIT ZONE (EDIT THESE VALUES ONLY) =============
 
