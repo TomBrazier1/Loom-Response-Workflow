@@ -48,12 +48,6 @@ function roiFile = Loom_signal_coordinate(aviPath, roiDir, tShow)
 %   MATLAB Image Processing Toolbox (for drawrectangle or imrect)
 %
 % -------------------------------------------------------------------------
-% CITATION:
-%   If you use this script please cite:
-%   Brazier, T., Allen, A., and Pienaar, A. (2026). Time-of-day differences
-%   in visually evoked defensive responses in mice. MSci Thesis,
-%   University of Manchester.
-% -------------------------------------------------------------------------
 
 clc;
 
