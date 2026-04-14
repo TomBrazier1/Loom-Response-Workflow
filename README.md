@@ -164,6 +164,16 @@ speed peak (used to extract maximum speed). This two-click approach allows
 the genuine escape movement to be distinguished from other locomotor events
 within the analysis window. Results are saved to Excel after every clip.
 
+### `Reaction_time_and_speed_scoring_demo.m`
+Standalone demonstration version of `Reaction_time_and_speed_scoring.m`.
+This script is not part of the pipeline. It is provided so that anyone with
+the example video file and MATLAB can run the scoring tool immediately,
+without any command-line input and without needing the rest of the pipeline.
+The clip, folder paths, and all analysis settings are hardcoded. Highlight
+all and press Run, no further input is required.
+
+> **Hardcoded clip:** `B_F_Exp4_Loom07_10-39_to_10-52.mp4`
+> For the full pipeline version see `Reaction_time_and_speed_scoring.m`.
 **Usage:**
 ```matlab
 Reaction_time_and_speed_scoring(searchFolders, outputDir);
